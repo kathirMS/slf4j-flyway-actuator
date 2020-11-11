@@ -1,0 +1,30 @@
+2020-11-11 19:00:42,936 INFO com.example.slf4j.Slf4jApplication [main] Starting Slf4jApplication on kathir with PID 27014 (/home/admin-pc/Downloads/slf4j/target/classes started by admin-pc in /home/admin-pc/Downloads/slf4j)
+2020-11-11 19:00:42,938 DEBUG com.example.slf4j.Slf4jApplication [main] Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-11 19:00:42,939 INFO com.example.slf4j.Slf4jApplication [main] No active profile set, falling back to default profiles: default
+2020-11-11 19:00:45,925 INFO com.example.slf4j.Slf4jApplication [main] Started Slf4jApplication in 3.596 seconds (JVM running for 4.04)
+2020-11-11 19:00:47,013 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-1] getString Method activated
+2020-11-11 19:00:47,775 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-2] getString Method activated
+2020-11-11 19:00:47,979 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-3] getString Method activated
+2020-11-11 19:00:48,282 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-4] getString Method activated
+2020-11-11 19:00:48,451 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-5] getString Method activated
+2020-11-11 19:00:48,616 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-6] getString Method activated
+2020-11-11 19:00:48,800 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-7] getString Method activated
+2020-11-11 19:00:48,928 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-8] getString Method activated
+2020-11-11 19:00:49,100 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-9] getString Method activated
+2020-11-11 19:00:49,252 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-10] getString Method activated
+2020-11-11 19:00:49,521 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-1] getString Method activated
+2020-11-11 19:00:49,710 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-2] getString Method activated
+2020-11-11 19:00:50,016 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-3] getString Method activated
+2020-11-11 19:00:50,165 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-4] getString Method activated
+2020-11-11 19:00:50,328 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-5] getString Method activated
+2020-11-11 19:00:50,465 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-6] getString Method activated
+2020-11-11 19:01:01,344 INFO com.example.slf4j.Slf4jApplication [main] Starting Slf4jApplication on kathir with PID 27131 (/home/admin-pc/Downloads/slf4j/target/classes started by admin-pc in /home/admin-pc/Downloads/slf4j)
+2020-11-11 19:01:01,346 DEBUG com.example.slf4j.Slf4jApplication [main] Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-11 19:01:01,347 INFO com.example.slf4j.Slf4jApplication [main] No active profile set, falling back to default profiles: default
+2020-11-11 19:01:04,822 INFO com.example.slf4j.Slf4jApplication [main] Started Slf4jApplication in 3.964 seconds (JVM running for 4.443)
+2020-11-11 19:01:05,560 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-1] getString Method activated
+2020-11-11 19:01:07,905 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-2] getString Method activated
+2020-11-11 19:01:08,012 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-3] getString Method activated
+2020-11-11 19:01:08,201 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-4] getString Method activated
+2020-11-11 19:01:08,312 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-5] getString Method activated
+2020-11-11 19:01:08,484 INFO com.example.slf4j.controller.Hello [http-nio-8000-exec-6] getString Method activated
