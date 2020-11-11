@@ -1,11 +1,11 @@
 # Introduction
 
-HelloWorld Springboot project using SLF4J,FLAYWAY,ACTUATOR.
+HelloWorld Springboot project using SLF4J,FLYWAY,ACTUATOR.
 
 ## dependency
 1.Spring web starter
 
-2.SLF$J
+2.SLF4J
 
 3.Flyway
 
@@ -65,6 +65,7 @@ HelloWorld Springboot project using SLF4J,FLAYWAY,ACTUATOR.
 **Flyway**
  
   *Created Simple Table*
+  
   *INSERT VALUE*
 
 |  ID  |  USERID  |
